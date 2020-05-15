@@ -1,1 +1,1 @@
-# Unsupervised-Audio-Source-Separation-using-GAN-Priors
+# Unsupervised-Audio-Source-Separation-using-Generative-Priors
