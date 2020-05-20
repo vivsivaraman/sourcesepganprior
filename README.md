@@ -1,1 +1,1 @@
-# Unsupervised-Audio-Source-Separation-using-Generative-Priors
+# Unsupervised Audio Source Separation using Generative Priors
