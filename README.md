@@ -2,7 +2,7 @@
 
 Refer to diagram below for a summary of the approach.
 
-![Proposed Approach for Source Separation](https://github.com/vivsivaraman/Metric-Learning-Pipelines-for-Speaker-Diarization/blob/master/approach.png)
+![Proposed Approach for Source Separation](https://github.com/vivsivaraman/sourcesepganprior/blob/master/blockdiagram.png)
 
 ## Requirements
 * python 3.6
