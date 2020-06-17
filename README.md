@@ -40,11 +40,10 @@ To specify the paths for the pre-trained models, mixture data, results, type of 
 Our paper is cited as:
 
 ```
-@Article{narayanaswamy2020,
-  author={Vivek Narayanaswamy, Jayaraman J. Thiagarajan, Rushil Anirudh, Andreas Spanias},
+@article{narayanaswamy2020,
   title={Unsupervised Audio Source Separation using Generative Priors},
-  booktitle = {ArXiv},
-  year = {2020}
+  author={Narayanaswamy, Vivek and Thiagarajan, Jayaraman J and Anirudh, Rushil and Spanias, Andreas},
+  journal={arXiv preprint arXiv:2005.13769},
+  year={2020}
 }
-
 ```
