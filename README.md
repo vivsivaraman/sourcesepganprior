@@ -23,7 +23,7 @@ Run ```create_dataset.py``` with appropriate arguments to randomly sample 1000 e
 
 
 ### Pre-trained GAN Priors
-Download the Pre-trained WaveGAN Priors from ![here](https://drive.google.com/file/d/1Vwu3ztF8c2dBW7ydG1o56VKNlsL4r5F3/view?usp=sharing) and save the contents in the respective folders in the ``` /ckpts ``` directory 
+Download the Pre-trained WaveGAN Priors from [here](https://drive.google.com/file/d/1Vwu3ztF8c2dBW7ydG1o56VKNlsL4r5F3/view?usp=sharing) and save the contents in the respective folders in the ``` /ckpts ``` directory 
 
 ### Perform Source Separation
 Run ```run_twosourcesep.py``` to perform two source separation on the appropriate mixture combination (digit-drums, digit-piano or drums-piano). 
