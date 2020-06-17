@@ -42,7 +42,7 @@ Our paper is cited as:
 ```
 @article{narayanaswamy2020,
   title={Unsupervised Audio Source Separation using Generative Priors},
-  author={Narayanaswamy, Vivek and Thiagarajan, Jayaraman J and Anirudh, Rushil and Spanias, Andreas},
+  author={Vivek Narayanaswamy, Jayaraman J. Thiagarajan, Rushil Anirudh and Andreas Spanias},
   journal={arXiv preprint arXiv:2005.13769},
   year={2020}
 }
