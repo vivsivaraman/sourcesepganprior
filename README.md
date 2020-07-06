@@ -1,6 +1,6 @@
 # Unsupervised Audio Source Separation using Generative Priors
 
-Refer to diagram below for a summary of the approach. Here is a [demo](vivsivaraman.github.io/) (please view in Firefox for best WAV file support).
+Refer to diagram below for a summary of the approach. Here is a [demo](https://vivsivaraman.github.io/) (please view in Firefox for best WAV file support).
 
 ![Proposed Approach for Source Separation](https://github.com/vivsivaraman/sourcesepganprior/blob/master/blockdiagram.png)
 
